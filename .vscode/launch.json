@@ -1,0 +1,10 @@
+{
+  "configurations": [
+  {
+    "name": "Attach to running node.js program",
+    "port": 7000,
+    "request": "attach",
+    "type": "node"
+  }
+  ]
+}
